@@ -2,11 +2,12 @@ numpy
 pandas
 scikit-learn
 xgboost
-torch
+torch==2.0.0
 shap
-streamlit==1.32.0
+streamlit
 matplotlib
 seaborn
 plotly
 Pillow
-altair==4.2.2
+altair<5
+vega_datasets
