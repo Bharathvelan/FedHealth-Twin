@@ -1,0 +1,7 @@
+COUNTERFACTUAL SUGGESTIONS
+========================================
+⚠️  Reduce BMI below 30 (Current: 41.5)
+⚠️  Reduce Blood Pressure below 130 (Current: 152.0)
+⚠️  Reduce Blood Sugar below 200 (Current: 361.0)
+⚠️  Improve SpO2 above 94% (Current: 90.6)
+⚠️  Quit smoking to reduce risk significantly

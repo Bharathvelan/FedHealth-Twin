@@ -1,0 +1,1001 @@
+note,label
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 0.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 1.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 2.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 3.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 4.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 5.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 6.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 7.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 8.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 9.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 10.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 11.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 12.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 13.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 14.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 15.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 16.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 17.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 18.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 19.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 20.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 21.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 22.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 23.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 24.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 25.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 26.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 27.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 28.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 29.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 30.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 31.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 32.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 33.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 34.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 35.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 36.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 37.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 38.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 39.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 40.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 41.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 42.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 43.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 44.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 45.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 46.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 47.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 48.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 49.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 50.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 51.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 52.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 53.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 54.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 55.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 56.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 57.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 58.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 59.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 60.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 61.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 62.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 63.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 64.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 65.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 66.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 67.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 68.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 69.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 70.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 71.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 72.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 73.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 74.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 75.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 76.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 77.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 78.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 79.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 80.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 81.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 82.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 83.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 84.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 85.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 86.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 87.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 88.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 89.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 90.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 91.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 92.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 93.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 94.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 95.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 96.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 97.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 98.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 99.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 100.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 101.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 102.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 103.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 104.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 105.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 106.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 107.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 108.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 109.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 110.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 111.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 112.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 113.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 114.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 115.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 116.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 117.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 118.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 119.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 120.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 121.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 122.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 123.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 124.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 125.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 126.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 127.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 128.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 129.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 130.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 131.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 132.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 133.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 134.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 135.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 136.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 137.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 138.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 139.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 140.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 141.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 142.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 143.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 144.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 145.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 146.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 147.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 148.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 149.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 150.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 151.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 152.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 153.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 154.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 155.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 156.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 157.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 158.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 159.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 160.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 161.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 162.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 163.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 164.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 165.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 166.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 167.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 168.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 169.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 170.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 171.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 172.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 173.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 174.,1
+Blood reports normal. Patient advised to continue current diet. Patient ID: 175.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 176.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 177.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 178.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 179.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 180.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 181.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 182.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 183.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 184.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 185.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 186.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 187.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 188.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 189.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 190.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 191.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 192.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 193.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 194.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 195.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 196.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 197.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 198.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 199.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 200.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 201.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 202.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 203.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 204.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 205.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 206.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 207.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 208.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 209.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 210.,1
+Blood reports normal. Patient advised to continue current diet. Patient ID: 211.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 212.,1
+Blood reports normal. Patient advised to continue current diet. Patient ID: 213.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 214.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 215.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 216.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 217.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 218.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 219.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 220.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 221.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 222.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 223.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 224.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 225.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 226.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 227.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 228.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 229.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 230.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 231.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 232.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 233.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 234.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 235.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 236.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 237.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 238.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 239.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 240.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 241.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 242.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 243.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 244.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 245.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 246.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 247.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 248.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 249.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 250.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 251.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 252.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 253.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 254.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 255.,1
+Blood reports normal. Patient advised to continue current diet. Patient ID: 256.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 257.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 258.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 259.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 260.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 261.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 262.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 263.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 264.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 265.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 266.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 267.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 268.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 269.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 270.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 271.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 272.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 273.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 274.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 275.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 276.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 277.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 278.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 279.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 280.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 281.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 282.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 283.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 284.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 285.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 286.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 287.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 288.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 289.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 290.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 291.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 292.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 293.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 294.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 295.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 296.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 297.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 298.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 299.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 300.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 301.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 302.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 303.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 304.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 305.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 306.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 307.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 308.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 309.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 310.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 311.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 312.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 313.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 314.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 315.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 316.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 317.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 318.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 319.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 320.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 321.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 322.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 323.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 324.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 325.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 326.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 327.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 328.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 329.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 330.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 331.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 332.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 333.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 334.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 335.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 336.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 337.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 338.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 339.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 340.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 341.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 342.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 343.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 344.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 345.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 346.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 347.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 348.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 349.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 350.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 351.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 352.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 353.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 354.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 355.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 356.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 357.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 358.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 359.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 360.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 361.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 362.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 363.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 364.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 365.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 366.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 367.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 368.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 369.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 370.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 371.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 372.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 373.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 374.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 375.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 376.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 377.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 378.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 379.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 380.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 381.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 382.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 383.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 384.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 385.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 386.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 387.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 388.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 389.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 390.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 391.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 392.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 393.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 394.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 395.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 396.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 397.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 398.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 399.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 400.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 401.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 402.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 403.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 404.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 405.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 406.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 407.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 408.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 409.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 410.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 411.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 412.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 413.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 414.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 415.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 416.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 417.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 418.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 419.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 420.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 421.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 422.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 423.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 424.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 425.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 426.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 427.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 428.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 429.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 430.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 431.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 432.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 433.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 434.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 435.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 436.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 437.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 438.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 439.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 440.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 441.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 442.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 443.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 444.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 445.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 446.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 447.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 448.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 449.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 450.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 451.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 452.,1
+Blood reports normal. Patient advised to continue current diet. Patient ID: 453.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 454.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 455.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 456.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 457.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 458.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 459.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 460.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 461.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 462.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 463.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 464.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 465.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 466.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 467.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 468.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 469.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 470.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 471.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 472.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 473.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 474.,1
+Blood reports normal. Patient advised to continue current diet. Patient ID: 475.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 476.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 477.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 478.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 479.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 480.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 481.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 482.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 483.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 484.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 485.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 486.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 487.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 488.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 489.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 490.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 491.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 492.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 493.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 494.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 495.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 496.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 497.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 498.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 499.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 500.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 501.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 502.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 503.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 504.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 505.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 506.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 507.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 508.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 509.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 510.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 511.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 512.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 513.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 514.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 515.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 516.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 517.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 518.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 519.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 520.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 521.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 522.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 523.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 524.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 525.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 526.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 527.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 528.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 529.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 530.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 531.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 532.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 533.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 534.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 535.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 536.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 537.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 538.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 539.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 540.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 541.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 542.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 543.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 544.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 545.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 546.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 547.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 548.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 549.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 550.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 551.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 552.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 553.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 554.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 555.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 556.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 557.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 558.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 559.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 560.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 561.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 562.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 563.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 564.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 565.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 566.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 567.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 568.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 569.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 570.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 571.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 572.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 573.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 574.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 575.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 576.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 577.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 578.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 579.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 580.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 581.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 582.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 583.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 584.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 585.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 586.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 587.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 588.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 589.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 590.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 591.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 592.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 593.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 594.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 595.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 596.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 597.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 598.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 599.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 600.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 601.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 602.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 603.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 604.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 605.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 606.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 607.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 608.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 609.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 610.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 611.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 612.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 613.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 614.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 615.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 616.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 617.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 618.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 619.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 620.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 621.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 622.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 623.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 624.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 625.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 626.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 627.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 628.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 629.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 630.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 631.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 632.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 633.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 634.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 635.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 636.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 637.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 638.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 639.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 640.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 641.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 642.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 643.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 644.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 645.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 646.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 647.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 648.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 649.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 650.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 651.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 652.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 653.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 654.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 655.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 656.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 657.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 658.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 659.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 660.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 661.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 662.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 663.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 664.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 665.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 666.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 667.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 668.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 669.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 670.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 671.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 672.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 673.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 674.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 675.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 676.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 677.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 678.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 679.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 680.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 681.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 682.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 683.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 684.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 685.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 686.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 687.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 688.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 689.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 690.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 691.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 692.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 693.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 694.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 695.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 696.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 697.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 698.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 699.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 700.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 701.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 702.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 703.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 704.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 705.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 706.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 707.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 708.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 709.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 710.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 711.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 712.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 713.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 714.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 715.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 716.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 717.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 718.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 719.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 720.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 721.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 722.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 723.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 724.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 725.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 726.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 727.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 728.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 729.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 730.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 731.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 732.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 733.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 734.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 735.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 736.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 737.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 738.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 739.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 740.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 741.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 742.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 743.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 744.,1
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 745.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 746.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 747.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 748.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 749.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 750.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 751.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 752.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 753.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 754.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 755.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 756.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 757.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 758.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 759.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 760.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 761.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 762.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 763.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 764.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 765.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 766.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 767.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 768.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 769.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 770.,1
+Blood reports normal. Patient advised to continue current diet. Patient ID: 771.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 772.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 773.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 774.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 775.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 776.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 777.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 778.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 779.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 780.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 781.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 782.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 783.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 784.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 785.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 786.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 787.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 788.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 789.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 790.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 791.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 792.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 793.,1
+Blood reports normal. Patient advised to continue current diet. Patient ID: 794.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 795.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 796.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 797.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 798.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 799.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 800.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 801.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 802.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 803.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 804.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 805.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 806.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 807.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 808.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 809.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 810.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 811.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 812.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 813.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 814.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 815.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 816.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 817.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 818.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 819.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 820.,1
+Blood reports normal. Patient advised to continue current diet. Patient ID: 821.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 822.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 823.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 824.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 825.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 826.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 827.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 828.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 829.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 830.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 831.,2
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 832.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 833.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 834.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 835.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 836.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 837.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 838.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 839.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 840.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 841.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 842.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 843.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 844.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 845.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 846.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 847.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 848.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 849.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 850.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 851.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 852.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 853.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 854.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 855.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 856.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 857.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 858.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 859.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 860.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 861.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 862.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 863.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 864.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 865.,0
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 866.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 867.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 868.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 869.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 870.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 871.,1
+Blood reports normal. Patient advised to continue current diet. Patient ID: 872.,0
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 873.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 874.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 875.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 876.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 877.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 878.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 879.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 880.,2
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 881.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 882.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 883.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 884.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 885.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 886.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 887.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 888.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 889.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 890.,2
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 891.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 892.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 893.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 894.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 895.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 896.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 897.,1
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 898.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 899.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 900.,2
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 901.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 902.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 903.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 904.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 905.,2
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 906.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 907.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 908.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 909.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 910.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 911.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 912.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 913.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 914.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 915.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 916.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 917.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 918.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 919.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 920.,1
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 921.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 922.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 923.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 924.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 925.,2
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 926.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 927.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 928.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 929.,2
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 930.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 931.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 932.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 933.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 934.,2
+Blood reports normal. Patient advised to continue current diet. Patient ID: 935.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 936.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 937.,0
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 938.,2
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 939.,0
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 940.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 941.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 942.,0
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 943.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 944.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 945.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 946.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 947.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 948.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 949.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 950.,0
+Blood reports normal. Patient advised to continue current diet. Patient ID: 951.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 952.,2
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 953.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 954.,1
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 955.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 956.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 957.,0
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 958.,1
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 959.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 960.,0
+No significant findings. Patient maintaining healthy lifestyle. Patient ID: 961.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 962.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 963.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 964.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 965.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 966.,1
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 967.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 968.,0
+High creatinine levels indicating kidney stress. Urgent consultation needed. Patient ID: 969.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 970.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 971.,1
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 972.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 973.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 974.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 975.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 976.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 977.,1
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 978.,2
+Routine checkup. All vitals normal. Patient exercises regularly. Patient ID: 979.,0
+Critical SpO2 levels observed. Patient reports chest pain and fatigue. Patient ID: 980.,2
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 981.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 982.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 983.,1
+Patient has severe hypertension and uncontrolled diabetes. Immediate attention required. Patient ID: 984.,2
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 985.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 986.,0
+Severe obesity with uncontrolled blood sugar. High risk of cardiovascular event. Patient ID: 987.,2
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 988.,0
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 989.,1
+Slightly elevated blood sugar. Patient advised diet control and exercise. Patient ID: 990.,1
+Patient reports occasional chest discomfort. Mild hypertension observed. Patient ID: 991.,1
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 992.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 993.,0
+Regular followup. No symptoms reported. Vitals stable. Patient ID: 994.,0
+Patient is healthy. Normal blood pressure and sugar levels. No complaints. Patient ID: 995.,0
+Patient has history of cardiac issues. Symptoms worsening. Hospitalization advised. Patient ID: 996.,2
+Occasional breathlessness reported. SpO2 borderline. Follow up needed. Patient ID: 997.,1
+Patient has family history of diabetes. Sugar levels slightly elevated. Patient ID: 998.,1
+Mild obesity noted. Blood pressure borderline high. Monitor regularly. Patient ID: 999.,1
