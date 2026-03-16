@@ -8,3 +8,4 @@ streamlit==1.28.0
 matplotlib
 Pillow
 altair==4.2.2
+anthropic
