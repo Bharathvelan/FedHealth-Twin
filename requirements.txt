@@ -6,7 +6,7 @@ torch
 shap
 streamlit==1.28.0
 matplotlib
-Pillow
+Pillow>=10.0.0
 altair==4.2.2
 anthropic
 python-dotenv
