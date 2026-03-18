@@ -4,8 +4,7 @@ scikit-learn
 xgboost
 torch
 shap
-streamlit
+streamlit==1.42.0
 matplotlib
-Pillow
 anthropic
 python-dotenv
